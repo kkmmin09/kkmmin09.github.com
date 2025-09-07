@@ -8,8 +8,8 @@ comments: false
     
 <center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
-## Features
-* Minimal, you can focus on your content
+## Introduction
+* It's a blog that records your daily life
 * Responsive
 * Disqus integration
 * Syntax highlighting
