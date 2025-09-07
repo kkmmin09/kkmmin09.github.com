@@ -11,8 +11,8 @@ comments: false
 ## Introduction
 * It's a blog that shares my daily life
 * Daily routine
-* Disqus integration
-* Syntax highlighting
+* a variety of everyday lives
+* daily life with friends
 * Optional post image
 * Social icons
 * Page for sharing projects
