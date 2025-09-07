@@ -9,8 +9,8 @@ comments: false
 <center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
 ## Introduction
-* It's a blog that records your daily life
-* Responsive
+* It's a blog that shares my daily life
+* Daily routine
 * Disqus integration
 * Syntax highlighting
 * Optional post image
