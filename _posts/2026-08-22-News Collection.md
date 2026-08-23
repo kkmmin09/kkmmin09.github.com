@@ -52,15 +52,15 @@ with open(
 
 ```python
 conn = pymysql.connect(
-    host="183.100.182.169",
-    user="root",
-    password="swhacademy!",
-    db="KimKyoungMin",
-    port=3306,
-    charset="utf8"
+    host="xxx.xxx.xxx.xxx",
+    user="xxxx",
+    password="xxxxxx",
+    db="xxxxxxxxxxxx",
+    port=xxxx,
+    charset="xxxx"
 )
 ```
-MySQL 서버에 접속합니다. (호스트, 계정, 비밀번호, DB명 지정)
+MySQL 서버에 접속합니다.
 
 ```python
 cursor = conn.cursor()
