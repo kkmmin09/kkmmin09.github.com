@@ -6,7 +6,7 @@ comments: true
 ---
 
 # 운빨 상점 플레이용 링크
-[🎮 운빨 상점 플레이하기](/assets/games/%EC%9A%B4%EB%B9%A8%EC%83%81%EC%A0%90_%ED%94%8C%EB%A0%88%EC%9D%B4%EC%9A%A9.html)
+[🎮 운빨 상점 플레이하기](/assets)
 
 # 운빨 상점 코드 분석
 
