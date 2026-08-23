@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "파이썬 숫자 맞추기 게임 코드 분석"
+title: "파이썬 숫자 맞추기 게임"
 excerpt: "난이도를 선택해서 랜덤 숫자를 맞추는 간단한 콘솔 게임 코드를 뜯어봤습니다."
 comments: true
 ---
