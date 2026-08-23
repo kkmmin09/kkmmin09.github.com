@@ -1,3 +1,4 @@
+[Uploading 운빨상점_플레이용.html…]()
 ---
 layout: post
 title: "운빨 상점 코드 분석 (HTML/CSS/JS)"
@@ -6,7 +7,7 @@ comments: true
 ---
 
 # 운빨 상점 플레이용 링크
-[🎮 운빨 상점 플레이하기](/assets/games/운빨상점_플레이용.html)
+[🎮 운빨 상점 플레이하기](/assets/games/lucky-shop.html)
 
 # 운빨 상점 코드 분석
 
