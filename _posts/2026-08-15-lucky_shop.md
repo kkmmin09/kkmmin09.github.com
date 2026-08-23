@@ -1,4 +1,3 @@
-[Uploading 운빨상점_플레이용.html…]()
 ---
 layout: post
 title: "운빨 상점 코드 분석 (HTML/CSS/JS)"
